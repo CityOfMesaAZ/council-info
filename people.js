@@ -7,7 +7,7 @@ var people = [
      "last": "Giles",
      "fullname": "John Giles"
    },
-   "bio": "John Giles was elected the 40th Mayor of Mesa, Arizona in August, 2014.   Giles earned degrees from Brigham Young University in Political Science and Arizona State University's Sandra Day O'Connor College of Law.  He has managed  his own law firm in downtown Mesa for the past 20 years.  In 1996, Giles was elected to the Mesa City Council and from 1998 to 2000,  he served as Vice Mayor.  Mayor Giles is committed to leading the way to build  upon Mesa's strengths in economic development, education, community livability,  smart growth and accessibility and participation in City government.",
+   "bio": "John Giles was elected the 40th Mayor of Mesa, Arizona in August, 2014. Giles earned degrees from Brigham Young University in Political Science and Arizona State University's Sandra Day O'Connor College of Law. He has managed his own law firm in downtown Mesa for the past 20 years. In 1996, Giles was elected to the Mesa City Council and from 1998 to 2000, he served as Vice Mayor.  Mayor Giles is committed to taking Mesa to the next level with his NextMesa vision.",
    "social": [
      {
        "platform": "facebook",
@@ -31,7 +31,7 @@ var people = [
      "last": "Richins",
      "fullname": "Dave Richins"
    },
-   "bio": "Dave Richins was elected as the Councilmember representing Mesa’s District 1 in June of 2008 and was re-elected to a second term in August of 2012. Richins has been active on both a state and national level during his time on the City Council, representing the city on the National League of Cities’ Community and Economic Development steering committee.  He also serves on the Advisory Board of Smart Growth America's Local Leaders Council and sits on the U.S. Environmental Protection Agency's Local Government Advisory Council and the Arizona Power Plant and Line Sitting Commission.  Councilmember Richins earned his Bachelor of Arts degree in Sustainable Community Development from Prescott College. ",
+   "bio": "Elected to the Mesa City Council in June of 2008 and re-elected in August of 2012, Dave Richins serves as the councilmember for District 1. His term on the Mesa City Council runs until January 2017. Richins earned his Bachelor of Arts degree in Sustainable Community Development from Prescott College. He has his professional certificate in Affordable Housing Development and was a member of the Class of 2005 in the Mesa Leadership, Training and Development program.",
    "social": [
      {
        "platform": "facebook",
@@ -56,7 +56,7 @@ var people = [
      "last": "Finter",
      "fullname": "Alex Finter"
    },
-   "bio": "Elected to the Mesa City Council in June of 2008 and re-elected in August of 2012, Alex Finter is in his second term as the Councilmember for District 2. Finter was chosen as Vice Mayor of the City Council in January 2013, holding that title until he became the Mayor of Mesa in April 2014.   He served as Mesa’s Mayor until September 18, 2014, when he resumed his role as the District 2 Councilmember. During his time in the Mayor’s office, Finter helped implement both the Falcon Field Strategic Visioning Commission and the Downtown Vision Committee, as well as the Hometown Heroes banner program. In the private-sector, Finter is a businessman and partner at Worldwide Investments LLC. ",
+   "bio": "Elected to the Mesa City Council in June of 2008 and re-elected in August of 2012, Alex Finter is in his second term as the Councilmember for District 2. Finter was chosen as Vice Mayor of the City Council in January 2013, holding that title until he became the Mayor of Mesa in April 2014. He served as Mesa’s Mayor until September 18, 2014, when he resumed his role as the District 2 Councilmember. During his time in the Mayor’s office, Finter helped implement the Falcon Field Strategic Visioning Commission and the Downtown Vision Committee, as well as the Hometown Heroes banner program. Councilmember Finter is also chair of the Council Public Safety committee. ",
    "social": [
      {
        "platform": "facebook",
@@ -81,7 +81,7 @@ var people = [
      "last": "Kavanaugh ",
      "fullname": "Dennis Kavanaugh "
    },
-   "bio": "Dennis Kavanaugh was elected to serve as the Mesa City Councilmember for District 3 in June of 2008 and was re-elected in August of 2012.  He was named the Vice Mayor of Mesa in January of 2015.  Kavanaugh also was a member of the City Council from 1996 until 2004, serving as Vice Mayor from 2002 to 2004.  Kavanaugh sits on several different committees and boards, including serving as the chairperson of the Council Public Safety committee. He currently sits on the Mesa Community College Commission on Excellence in Education and is the Vice Chair of the Valley Metro Rail board. Councilmember Kavanaugh received his J.D. degree in from Arizona State University and a B.A. in Political Science from St. Louis University.",
+   "bio": "Dennis Kavanaugh was elected to serve as the Mesa City Councilmember for District 3 in June of 2008 and was re-elected in August of 2012. He was named the Vice Mayor of Mesa in January of 2015. Kavanaugh also was a member of the City Council from 1996 until 2004, serving as Vice Mayor from 2002 to 2004. Kavanaugh sits on several different committees and boards both nationally and regionally. Councilmember Kavanaugh received his J.D. degree in from Arizona State University and a B.A. in Political Science from St. Louis University.",
    "social": [
      {
        "platform": "facebook",
@@ -106,7 +106,7 @@ var people = [
      "last": "Glover",
      "fullname": "Chris Glover"
    },
-   "bio": "Serving his first term representing Mesa's District 4, Chris Glover became the youngest person ever to serve on the Mesa City Council following his election in 2011.  He was named Vice Mayor in April 2014, serving in the position until January of 2015. Glover is a native of Mesa, attending Mesa Public Schools, graduating with honors from Mesa High School and he was a member of the Mayor's Youth Committee. Vice Mayor Glover earned a degree in Political Science with minors in History and Spanish and a Master of Science in Management from Arizona State University.",
+   "bio": "The youngest person ever to serve on the Mesa City Council following his election at age 23 in 2011, Councilmember Chris Glover was re-elected to a second term representing District 4 in August of 2014. He was named Vice Mayor in April 2014, serving in the position until January of 2015.  Glover is a native of Mesa, attending Mesa Public Schools, graduating with honors from Mesa High School and he was a member of the Mayor's Youth Committee. Vice Mayor Glover earned a degree in Political Science with minors in History and Spanish and a Master of Science in Management from Arizona State University.",
    "social": [
      {
        "platform": "facebook",
@@ -131,7 +131,7 @@ var people = [
      "last": "Luna",
      "fullname": "David Luna"
    },
-   "bio": "David Luna was appointed to fill the vacant District 5 seat on the Mesa City Council in September of 2013. Luna has been recognized for his community involvement with numerous awards, including the Mesa United Way Volunteer of the Year Award in 2006, the City of Mesa National Emergency Preparedness Recognition in 2007, the Valle del Sol Hall of Fame Award in 2011 and the Mesa United Way Spirit of Mesa Award in 2012 and the City of Mesa's Citizen of the Year in 2012.  Luna was also inducted into the Silver Circle Society (National Academy of Arts and Science) Rocky Mountain Chapter  Councilmember Luna earned his Bachelor of Arts in Radio/Television from the University of Arizona, a Master of Mass Communication from Arizona State University and his Doctorate in Educational Leadership from Northern Arizona University in 2012. ",
+   "bio": "Appointed to fill the vacant District 5 seat in September of 2013, David Luna became the first Hispanic elected to the Mesa City Council when voters elected him in August of 2014. His term on the Mesa City Council runs until January of 2019. Luna has been recognized for his community involvement with numerous awards, including the Mesa United Way Volunteer of the Year Award in 2006, the City of Mesa National Emergency Preparedness Recognition in 2007, the Valle del Sol Hall of Fame Award in 2011 and the Mesa United Way Spirit of Mesa Award in 2012 and the City of Mesa's Citizen of the Year in 2012. Luna was also inducted into the Silver Circle Society (National Academy of Arts and Science) Rocky Mountain Chapter Councilmember Luna earned his Bachelor of Arts in Radio/Television from the University of Arizona, a Master of Mass Communication from Arizona State University and his Doctorate in Educational Leadership from Northern Arizona University in 2012. ",
    "social": [
      {
        "platform": "facebook",
