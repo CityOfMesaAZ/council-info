@@ -81,7 +81,7 @@ var people = [
      "last": "Kavanaugh ",
      "fullname": "Dennis Kavanaugh "
    },
-   "bio": "Dennis Kavanaugh was elected to serve as the Mesa City Councilmember for District 3 in June of 2008 and was re-elected in August of 2012. He was named the Vice Mayor of Mesa in January of 2015. Kavanaugh also was a member of the City Council from 1996 until 2004, serving as Vice Mayor from 2002 to 2004. Kavanaugh sits on several different committees and boards both nationally and regionally. Councilmember Kavanaugh received his J.D. degree in from Arizona State University and a B.A. in Political Science from St. Louis University.",
+   "bio": "Dennis Kavanaugh was elected to serve as the Mesa City Councilmember for District 3 in June of 2008 and was re-elected in August of 2012. He was named the Vice Mayor of Mesa in January of 2015. Kavanaugh also was a member of the City Council from 1996 until 2004, serving as Vice Mayor from 2002 to 2004. Kavanaugh sits on several different committees and boards both nationally and regionally. Councilmember Kavanaugh received his J.D. degree from Arizona State University and a B.A. in Political Science from St. Louis University.",
    "social": [
      {
        "platform": "facebook",
