@@ -15,7 +15,7 @@ var people = [
      },
      {
        "platform": "twitter",
-       "name": "MesaMayorOffice"
+       "name": "MayorGiles" 
      }
    ],
    "phone": "480-644-2388",
