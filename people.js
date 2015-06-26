@@ -15,7 +15,7 @@ var people = [
      },
      {
        "platform": "twitter",
-       "name": "mayorgiles" 
+       "name": "MayorGiles" 
      }
    ],
    "phone": "480-644-2388",
