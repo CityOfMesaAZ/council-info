@@ -56,7 +56,7 @@ var people = [
      "last": "Finter",
      "fullname": "Alex Finter"
    },
-   "bio": "Elected to the Mesa City Council in June of 2008 and re-elected in August of 2012 Alex Finter is in his second term as the Councilmember for District 2. Finter was chosen as Vice Mayor of the City Council in January 2013, holding that title until he became the Mayor of Mesa in April 2014. He served as Mesa’s Mayor until September 18, 2014, when he resumed his role as the District 2 Councilmember. During his time in the Mayor’s office, Finter helped implement the Falcon Field Strategic Visioning Commission and the Downtown Vision Committee, as well as the Hometown Heroes banner program. Councilmember Finter is also chair of the Council Public Safety committee. ",
+   "bio": "Elected to the Mesa City Council in June of 2008 and re-elected in August of 2012, Alex Finter is in his second term as the Councilmember for District 2. Finter was chosen as Vice Mayor of the City Council in January 2013, holding that title until he became the Mayor of Mesa in April 2014. He served as Mesa’s Mayor until September 18, 2014, when he resumed his role as the District 2 Councilmember. During his time in the Mayor’s office, Finter helped implement the Falcon Field Strategic Visioning Commission and the Downtown Vision Committee, as well as the Hometown Heroes banner program. Councilmember Finter is also chair of the Council Public Safety committee. ",
    "social": [
      {
        "platform": "facebook",
