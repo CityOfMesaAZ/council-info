@@ -27,26 +27,26 @@ var people = [
    "title": "City Councilmember",
    "district": "1",
    "name": {
-     "first": "Dave",
-     "last": "Richins",
-     "fullname": "Dave Richins"
+     "first": "Mark",
+     "last": "Freeman",
+     "fullname": "Mark Freeman"
    },
-   "bio": "Elected to the Mesa City Council in June of 2008 and re-elected in August of 2012, Dave Richins serves as the councilmember for District 1. His term on the Mesa City Council runs until January 2017. Richins earned his Bachelor of Arts degree in Sustainable Community Development from Prescott College. He has his professional certificate in Affordable Housing Development and was a member of the Class of 2005 in the Mesa Leadership, Training and Development program.",
+   "bio": "Elected to the Mesa City Council in August 2016, Councilmember Mark Freeman began his first term representing District 1 in January of 2017. His term on the Council runs until January of 2021.Mark has lived in Mesa for 61 years.  He and his wife, LeeAnn, have been married for 38 years and have a strong family value, with great love for their 3 children and 8 grandchildren.  His oldest son is currently serving in the U.S. Air Force as a Captain. Their other children reside in Mesa."Mark has lived in Mesa for 61 years.  He and his wife, LeeAnn, have been married for 38 years and have a strong family value, with great love for their 3 children and 8 grandchildren.  His oldest son is currently serving in the U.S. Air Force as a Captain. Their other children reside in Mesa."Mark has lived in Mesa for 61 years.  He and his wife, LeeAnn, have been married for 38 years and have a strong family value, with great love for their 3 children and 8 grandchildren.  His oldest son is currently serving in the U.S. Air Force as a Captain. Their other children reside in Mesa.",
    "social": [
      {
        "platform": "facebook",
-       "name": "CouncilmemberDaveRichins"
+       "name": "CouncilmemberMarkFreeman"
      },
      {
        "platform": "twitter",
-       "name": "dlrichins",
+       "name": "mesadistrict1",
        "widget": "465935532589993984"
      }
    ],
    "phone": "480-644-4002",
    "email": "District1@mesaaz.gov",
-   "website_url": "http://www.mesaaz.gov/council/richins/default.aspx",
-   "photo_url": "https://techieshark.github.io/council-info/img/Dave_Richins_sm.jpg"
+   "website_url": "http://www.mesaaz.gov/council/Freeman/default.aspx",
+   "photo_url": "https://cityofmesaaz.github.io/council-info/img/District1MarkFreeman_sm.jpg"
  },
  {
    "title": "City Councilmember",
