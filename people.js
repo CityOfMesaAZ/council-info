@@ -24,18 +24,6 @@ var people = [
    "photo_url": "https://techieshark.github.io/council-info/img/John_Giles_sm.jpg"
  },
  {
-   "title": "City Councilmember",
-   "district": "1",
-   "name": {
-     "first": "Mark",
-     "last": "Freeman",
-     "fullname": "Mark Freeman"
-   },
-   "bio": "   "email": "mayor@Mesaaz.gov",
-   "website_url": "http://www.mesaaz.gov/mayor/",
-   "photo_url": "https://techieshark.github.io/council-info/img/John_Giles_sm.jpg"
- },
- {
    "title": "City Councilmember",
    "district": "1",
    "name": {
@@ -43,8 +31,7 @@ var people = [
      "last": "Freeman",
      "fullname": "Mark Freeman"
    },
-   "bio": "Elected to the Mesa City Council in August 2016, Councilmember Mark Freeman began his first term representing District 1 in January of 2017. His term on the Council runs until January of 2021. Freeman’s Mesa roots run deep, as his ancestor, Charles Crismon, was one of the founding fathers of Mesa.  His family has farmed in the Valley since 1878 and Freeman continues that tradition today, growing alfalfa and sweet corn and running a summer farmer’s market at Brown and Center Street. In addition to farming, he spent 31 years with the Mesa Fire and Medical Department as a Captain Paramedic before retiring in 2011. Mark has always been active in the community, serving on the Mesa Board of Adjustment as well as serving as the Lehi area Board President for 12 years. In addition, he has been involved with the Maricopa County and Arizona Farm Bureau organizations for many years. Mark has lived in Mesa for 61 years.  He and his wife, LeeAnn, have been married for 38 years and have a strong family value, with great love for their 3 children and 8 grandchildren.  His oldest son is currently serving in the U.S. Air Force as a Captain. Their other children reside in Mesa."
-,
+   "bio": "Elected to the Mesa City Council in August 2016, Councilmember Mark Freeman began his first term representing District 1 in January of 2017. His term on the Council runs until January of 2021. Freeman’s Mesa roots run deep, as his ancestor, Charles Crismon, was one of the founding fathers of Mesa.  His family has farmed in the Valley since 1878 and Freeman continues that tradition today, growing alfalfa and sweet corn and running a summer farmer’s market at Brown and Center Street. In addition to farming, he spent 31 years with the Mesa Fire and Medical Department as a Captain Paramedic before retiring in 2011. Mark has always been active in the community, serving on the Mesa Board of Adjustment as well as serving as the Lehi area Board President for 12 years. In addition, he has been involved with the Maricopa County and Arizona Farm Bureau organizations for many years. Mark has lived in Mesa for 61 years.  He and his wife, LeeAnn, have been married for 38 years and have a strong family value, with great love for their 3 children and 8 grandchildren.  His oldest son is currently serving in the U.S. Air Force as a Captain. Their other children reside in Mesa.",
    "social": [
      {
        "platform": "facebook",
