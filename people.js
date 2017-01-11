@@ -72,29 +72,27 @@ var people = [
   "photo_url": "https://cityofmesaaz.github.io/council-info/img/District2JeremyWhittaker_sm.jpg" 
  },
  {
-   "title": "City Councilmember",
-   "district": "3",
-   "name": {
-     "first": "Dennis",
-     "last": "Kavanaugh ",
-     "fullname": "Dennis Kavanaugh "
-   },
-   "bio": "Dennis Kavanaugh was elected to serve as the Mesa City Councilmember for District 3 in June of 2008 and was re-elected in August of 2012. He was named the Vice Mayor of Mesa in January of 2015. Kavanaugh also was a member of the City Council from 1996 until 2004, serving as Vice Mayor from 2002 to 2004. Kavanaugh sits on several different committees and boards both nationally and regionally. Councilmember Kavanaugh received his J.D. degree from Arizona State University and a B.A. in Political Science from St. Louis University.",
-   "social": [
-     {
-       "platform": "facebook",
-       "name": "councilmember.kavanaugh"
-     },
-     {
-       "platform": "twitter",
-       "name": "MesaDistrict3",
-       "widget": "465941592985968641"
-     }
-   ],
-   "phone": "480-644-3003",
-   "email": "District3@mesaaz.gov",
-   "website_url": "http://www.mesaaz.gov/council/kavanaugh/default.aspx",
-   "photo_url": "https://techieshark.github.io/council-info/img/Dennis_Kavanaugh_sm.jpg"
+  "title": "City Councilmember",  
+  "district": "3", 
+  "name":
+  { "first": "Ryan",  
+   "last": "Winkle ",  
+   "fullname": "Ryan Winkle "  
+  }, 
+  "bio": "Elected to the Mesa City Council in August 2016, Councilmember Ryan Winkle began his first term representing District 3 in January of 2017. His term on the Council runs until January of 2021. Winkle is one of the co-founders of the Mesa Urban Garden, a community organization that provides fresh produce directly to the community and local food banks. He was a key voice behind turning an empty dirt lot into a point of pride for Downtown Mesa. He is also a co-founder of RAILMesa, a registered neighborhood group that advocates for increased citizen participation, responsible development of housing, transit options and the creation of quality jobs along Mesa’s Light Rail Corridor. Winkle works as a Community Economic Development Consultant, dealing with underserved communities around the East Valley in the areas of housing options, workforce development, neighborhood revitalization, public outreach and transit-oriented development.  Winkle holds a both a Bachelor of Arts in Sustainable Urban Dynamics and a Bachelor of Sciences in Urban Planning from Arizona State University and a Masters of Business Administration from Wilkes University Mesa. Raised in Mesa, Ryan and his wife Ericka have one son, Rian Erick.",  
+  "social": [    
+   { "platform": "facebook",   
+    "name": "councilmemberRyanWinkle"    
+   },  
+   { "platform": "twitter",    
+    "name": "MesaDistrict3",    
+    "widget": "465941592985968641"   
+   } 
+  ],  
+  "phone": "480-644-3003",  
+  "email": "District3@mesaaz.gov", 
+  "website_url": "http://www.mesaaz.gov/council/winkle/default.aspx", 
+  "photo_url": "https://cityofmesaaz.github.io/council-info/img/District3RyanWinkle_sm.jpg"
  },
  {
    "title": "City Councilmember",
