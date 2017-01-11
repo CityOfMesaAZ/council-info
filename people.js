@@ -21,7 +21,7 @@ var people = [
    "phone": "480-644-2388",
    "email": "mayor@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/mayor/",
-   "photo_url": "https://techieshark.github.io/council-info/img/John_Giles_sm.jpg"
+   "photo_url": "https://cityofmesaaz.github.io/council-info/img/John_Giles_sm.jpg"
  },
  {
    "title": "City Councilmember",
@@ -117,7 +117,7 @@ var people = [
    "phone": "480-644- 3004",
    "email": "councilmember.glover@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/glover/",
-   "photo_url": "https://techieshark.github.io/council-info/img/Chris_Glover_sm.jpg"
+   "photo_url": "https://cityofmesaaz.github.io/council-info/img/Chris_Glover_sm.jpg"
  },
  {
    "title": "City Councilmember",
@@ -142,7 +142,7 @@ var people = [
    "phone": "480-644-3771",
    "email": "councilmember.luna@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/luna/default.aspx",
-   "photo_url": "https://techieshark.github.io/council-info/img/David_Luna_sm.jpg"
+   "photo_url": "https://cityofmesaaz.github.io/council-info/img/David_Luna_sm.jpg"
  },
  {
    "title": "City Councilmember",
@@ -167,7 +167,7 @@ var people = [
    "phone": "480-644-4003",
    "email": "councilmember.thompson@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/council/thompson/default.aspx",
-   "photo_url": "https://techieshark.github.io/council-info/img/Kevin_Thompson_sm.jpg"
+   "photo_url": "https://cityofmesaaz.github.io/council-info/img/Kevin_Thompson_sm.jpg"
  },
  {
    "title": "City Manager",
@@ -191,6 +191,6 @@ var people = [
    "phone": "480-644-2066",
    "email": "COMmanager@Mesaaz.gov",
    "website_url": "http://www.mesaaz.gov/mayor/",
-   "photo_url": "https://techieshark.github.io/council-info/img/Chris_Brady_sm.jpg"
+   "photo_url": "https://cityofmesaaz.github.io/council-info/img/Chris_Brady_sm.jpg"
   },
 ]
