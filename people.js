@@ -6,7 +6,7 @@ var people = [
      "first": "John ",
      "last": "Giles",
      "fullname": "John Giles"
-   },
+ },
    "bio": "John Giles was elected the 40th Mayor of Mesa, Arizona in August, 2014. Giles earned degrees from Brigham Young University in Political Science and Arizona State University's Sandra Day O'Connor College of Law. He has managed his own law firm in downtown Mesa for the past 20 years. In 1996, Giles was elected to the Mesa City Council and from 1998 to 2000, he served as Vice Mayor.  Mayor Giles is committed to taking Mesa to the next level with his NextMesa vision.",
    "social": [
      {
@@ -48,30 +48,28 @@ var people = [
    "website_url": "http://www.mesaaz.gov/council/Freeman/default.aspx",
    "photo_url": "https://cityofmesaaz.github.io/council-info/img/District1MarkFreeman_sm.jpg"
  },
- {
-   "title": "City Councilmember",
-   "district": "2",
-   "name": {
-     "first": "Alex",
-     "last": "Finter",
-     "fullname": "Alex Finter"
+ { 
+  "title": "City Councilmember",
+  "district": "2",  
+  "name": { "first": "Jeremy",
+           "last": "Whittaker", 
+           "fullname": "Jeremy Whittaker"   
    },
-   "bio": "Elected to the Mesa City Council in June of 2008 and re-elected in August of 2012, Alex Finter is in his second term as the Councilmember for District 2. Finter was chosen as Vice Mayor of the City Council in January 2013, holding that title until he became the Mayor of Mesa in April 2014. He served as Mesa’s Mayor until September 18, 2014, when he resumed his role as the District 2 Councilmember. During his time in the Mayor’s office, Finter helped implement the Falcon Field Strategic Visioning Commission and the Downtown Vision Committee, as well as the Hometown Heroes banner program. Councilmember Finter is also chair of the Council Public Safety committee. ",
-   "social": [
-     {
-       "platform": "facebook",
-       "name": "CouncilmemberAlexFinter"
-     },
-     {
-       "platform": "twitter",
-       "name": "MesaDistrict2",
-       "widget": "465941398470922240"
-     }
-   ],
-   "phone": "480-644-3772",
-   "email": "councilmember.finter@Mesaaz.gov",
-   "website_url": "http://www.mesaaz.gov/council/finter/",
-   "photo_url": "https://techieshark.github.io/council-info/img/Alex_Finter_sm.jpg"
+  "bio": "Elected to the Mesa City Council in November of 2016, Councilmember Jeremy Whittaker began his first term representing District 2 in January of 2017. His term on the Council runs until January of 2021.  Whittaker is the founder and president of Velocity Technologies, a technology solutions company for small to medium size businesses. He has worked in the IT consulting and technology industry for more than 15 years, owning his own firm since 2004.  For the past five years Whittaker has been a member of the Vista Villages II Home Owners Association Board of Directors, including four years as the Vice President. He also has served as an Adjunct Faculty member for Maricopa Community Colleges, teaching a course on creating profitable strategies for trading the currency market on a fully automated basis.  Whittaker’s family moved to Arizona more than 20 years ago, and he and his wife Roshana have lived in Mesa since 2005. ",   
+  "social": [    
+   {  
+   "platform": "facebook",  
+   "name": "CouncilmemberJeremyWhittaker"    
+   }, 
+      { "platform": "twitter",  
+        "name": "MesaDistrict2",   
+        "widget": "465941398470922240"    
+      }  
+  ], 
+  "phone": "480-644-3772",  
+  "email": "councilmember.whittaker@Mesaaz.gov",  
+  "website_url": "http://www.mesaaz.gov/council/whittaker/",  
+  "photo_url": "https://cityofmesaaz.github.io/council-info/img/District2JeremyWhittaker_sm.jpg" 
  },
  {
    "title": "City Councilmember",
